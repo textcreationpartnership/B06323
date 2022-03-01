@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two royal achrostichs on the Dutch in the ditch</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06323</idno>
+            <idno type="STC">Wing T3533</idno>
+            <idno type="STC">ESTC R226313</idno>
+            <idno type="EEBO-CITATION">52612475</idno>
+            <idno type="OCLC">ocm 52612475</idno>
+            <idno type="VID">179700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179700)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two royal achrostichs on the Dutch in the ditch</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In two columns, each with its own acrostic: one on "Dieu et mon droit", the other on "Honi soit qui mal y pense."</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Poetry.</term>
+               <term>Acrostics --  England --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="acrostics">
+            <pb facs="tcp:179700:1"/>
+            <head>TWO ROYAL ACHROSTICHS ON The Dutch in the Ditch.</head>
+            <div type="acrostic">
+               <head>DIE<g ref="char:V">Ʋ</g> ET MON DROIT.</head>
+               <l>
+                  <hi rend="large">D</hi>Rive, Devil drive, the <hi>Drunken Dutch</hi> are thine,</l>
+               <l>For thou haſt leave to enter into <hi>Swine.</hi>
+               </l>
+               <l>
+                  <hi rend="large">I</hi>nto the <hi>Main</hi> amain, the leading <hi>Boor</hi>
+               </l>
+               <l>Did headlong run, the reſt <hi>bin al verloor;</hi>
+               </l>
+               <l>
+                  <hi rend="large">E</hi>ven the very <hi>Pigs</hi> are grown <hi>Sea-ſick,</hi>
+               </l>
+               <l>Ask them how long, they cry a <hi>Week,</hi> a <hi>Week,</hi>
+               </l>
+               <l>
+                  <hi rend="large">V</hi>
+                  <hi>antrump</hi> did caſt their <hi>Waters,</hi> and did ſay,</l>
+               <l>They could not live, except they ran away.</l>
+               <l>
+                  <hi rend="large">E</hi>
+                  <hi>vertſe</hi> put from <hi>Sea,</hi> as loth to lag,</l>
+               <l>Seeing the <hi>High</hi> and <hi>Mighty</hi> Top-ſails <hi>Flag.</hi>
+               </l>
+               <l>
+                  <hi rend="large">T</hi>
+                  <hi>riumph, Revenge</hi> did follow them ſo cloſe,</l>
+               <l>Their Purge was ſtrong, work'd with ſo ſmall a <hi>Doſe</hi>
+               </l>
+               <l>
+                  <hi rend="large">M</hi>
+                  <hi>iin Heer</hi> oh cry'd the Vulgar, <hi>Charity,</hi>
+               </l>
+               <l>Or elſe <hi>miin Vrouw</hi> I never more ſhall ſee.</l>
+               <l>
+                  <hi rend="large">O</hi>h <hi>Royal Charls</hi> and <hi>Katharine, Royal Oke,</hi>
+               </l>
+               <l>If <hi>Iames</hi> command their <hi>Norway Maſts</hi> are broke</l>
+               <l>
+                  <hi rend="large">N</hi>o <hi>Chriſtian</hi> ſure will ever aid the <hi>Turk,</hi>
+               </l>
+               <l>Or help ſuch <hi>Iews</hi> to ſet the Dee'l a work.</l>
+               <l>
+                  <hi rend="large">D</hi>
+                  <hi>runken</hi> the <hi>Swine</hi> were <hi>drown'd</hi> in <hi>Engliſh</hi> loſt</l>
+               <l>The <hi>Gaderens</hi> perſwade to leave the <hi>Coast.</hi>
+               </l>
+               <l>
+                  <hi rend="large">R</hi>ide <hi>Admiral</hi> Brave <hi>James,</hi> let them not peep,</l>
+               <l>Or have a <hi>Ship</hi> to ſail 'twixt <hi>Deel</hi> or <hi>Deep;</hi>
+               </l>
+               <l>
+                  <hi rend="large">O</hi>r if they have, ne'r let them want for <hi>Rope,</hi>
+               </l>
+               <l>For they have need ſince their <hi>main ſtays</hi> are <hi>broke</hi>
+               </l>
+               <l>
+                  <hi rend="large">I</hi>ndeed their hearts, &amp; ſince they delt with <hi>French,</hi>
+               </l>
+               <l>They got a Clap, but 'twas not by a Wench;</l>
+               <l>
+                  <hi rend="large">T</hi>was by a <hi>Prince</hi> like <hi>Jove,</hi> whoſe <hi>thunder</hi>'s ſuch</l>
+               <l>Frightned the <hi>Frogs</hi> from <hi>Bank</hi> to the <hi>low Dutch,</hi>
+               </l>
+               <l>Yet If they'l venter out into the <hi>Main,</hi>
+               </l>
+               <l>Our <hi>Engliſh Neptune</hi> there ſtill holds the Rein.</l>
+               <l>Though <hi>Famouth, Portland</hi> noble blood did ſpill,</l>
+               <l>They have their Honour, we our <hi>Sandwich</hi> ſtill.</l>
+               <l>
+                  <hi>God and my Right</hi> is what belongs to <hi>Kings,</hi>
+               </l>
+               <l>
+                  <hi>God</hi> will aſſert his <hi>Right,</hi> (when ſuch poor <hi>things</hi>
+               </l>
+               <l>As caſt off <hi>Sovereign</hi> Power, and <hi>ungrate,</hi>
+               </l>
+               <l>Think God is pleaſed to be ſerv'd in <hi>State,</hi>
+               </l>
+               <l>Shall fly before the Sound of <hi>Charls</hi> and <hi>James,</hi>
+               </l>
+               <l>And in their Flight ſhall keep to make <hi>
+                     <g ref="char:V">Ʋ</g>pdams</hi>
+               </l>
+               <l>And when they know their <hi>Damages</hi> and loſs,</l>
+               <l>Let them put ſomething down for <hi>Ben's Ma<g ref="char:EOLhyphen"/>droſs,</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>HONI SOIT Q<g ref="char:V">Ʋ</g>I MAL Y PENSE.</head>
+               <l>
+                  <hi rend="large">H</hi>Oiſt up <hi>your high &amp; mighty</hi> Top-ſails <hi>Hogens</hi>
+               </l>
+               <l>Your one and twenty <hi>Flag-ſhips, mighty Mogens.</hi>
+               </l>
+               <l>
+                  <hi rend="large">O</hi>
+                  <hi>pdam</hi>'s Gout's cur'd, <hi>Trumps backward,</hi> yet can't find</l>
+               <l>No ready cure, although he courts the wind:</l>
+               <l>
+                  <hi rend="large">N</hi>o eaſe he finds, his pain is grown ſo much,</l>
+               <l>Their Doctors ſwear <hi>wind Collick</hi> kill'd the <hi>Dutch</hi>
+               </l>
+               <l>
+                  <hi rend="large">Y</hi>et it is ſtrange they had ſo little <hi>Wind,</hi>
+               </l>
+               <l>That you could hardly hear them <hi>Trump</hi> behind</l>
+               <l>
+                  <hi rend="large">S</hi>
+                  <hi>even Provinces</hi> at once ſet on the <hi>ſtocks,</hi>
+               </l>
+               <l>Sure they were <hi>drunk,</hi> elſe they had felt their <hi>knocks.</hi>
+               </l>
+               <l>
+                  <hi rend="large">O</hi>h las! a drunken body feels no harm,</l>
+               <l>Much leſs a <hi>State</hi> their <hi>Brandy</hi> kept them warm</l>
+               <l>
+                  <hi rend="large">I</hi>ndeed 'twas pity that with t'other <hi>ſeven</hi>
+               </l>
+               <l>The <hi>Provinces</hi> wa'nt there to make them even.</l>
+               <l>
+                  <hi rend="large">T</hi>hoſe and <hi>ſeven</hi> more would drink the Ocean dry,</l>
+               <l>Since 1 Fire-ſhip did make the <hi>Herings</hi> fry.</l>
+               <l>
+                  <hi rend="large">Q</hi>uench wel your thirſt with <hi>Brandy</hi> once again</l>
+               <l>'Twill make you <hi>broil</hi> like <hi>fiſh,</hi> yet feel no pain;</l>
+               <l>
+                  <hi rend="large">U</hi>nleſs you can repent, and then God may</l>
+               <l>Receive your ſouls, although you looſe the day.</l>
+               <l>
+                  <hi rend="large">I</hi>nto the <hi>Texel,</hi> out again, fie, fie,</l>
+               <l>Doth it not ſhame your <hi>Admirals</hi> to flie,</l>
+               <l>
+                  <hi rend="large">M</hi>oſt <hi>High</hi> and <hi>Mighty Courtenair</hi> and <hi>Scramp</hi>
+               </l>
+               <l>Trying to ſwim, were taken by a <hi>Cramp.</hi>
+               </l>
+               <l>
+                  <hi rend="large">A</hi>h there to ſwim is dang'rous, learn <hi>De Wit,</hi>
+               </l>
+               <l>Hold up your <hi>head,</hi> and truſt no more your <hi>feet.</hi>
+               </l>
+               <l>
+                  <hi rend="large">L</hi>oſt your <hi>Orania,</hi> loſe not <hi>Orange</hi> too,</l>
+               <l>You know not what a Gracious <hi>Prince</hi> can do;</l>
+               <l>
+                  <hi rend="large">Y</hi>our ſunk already, but if like <hi>Boys</hi> you riſe,</l>
+               <l>'Twill be to ſhew but where your <hi>Anchor</hi> lies.</l>
+               <l>
+                  <hi rend="large">P</hi>ay <hi>Caeſar</hi>'s due, and God will make you bolder,</l>
+               <l>The <hi>States</hi> muſt bow unto the <hi>States State-holder.</hi>
+               </l>
+               <l>
+                  <hi rend="large">E</hi>
+                  <hi>vil</hi> is ſtill <hi>to them that evil think,</hi>
+               </l>
+               <l>Pray when you fight again don't fight in drink.</l>
+               <l>
+                  <hi rend="large">N</hi>e'r <hi>think</hi> you can prevail upon thoſe Waters,</l>
+               <l>That is ſo eaſily rul'd by <hi>England</hi>'s <hi>Garters.</hi>
+               </l>
+               <l>
+                  <hi rend="large">S</hi>
+                  <hi>overeigns</hi> at Sea ride <hi>Admirals, States</hi>
+               </l>
+               <l>With our <hi>Rump</hi> have quite worn out their dates</l>
+               <l>
+                  <hi rend="large">E</hi>
+                  <hi>ngland</hi>'s <hi>Neptune</hi> in her Narrow <hi>Seas,</hi>
+               </l>
+               <l>Can reach your <hi>Indies</hi> where &amp; when he pleaſe</l>
+               <l>Come help to ſave your ſtingy loſt <hi>De Ruyter,</hi>
+               </l>
+               <l>Or you muſt bow that ſtoop to kiſs the <hi>Crupper.</hi>
+               </l>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
